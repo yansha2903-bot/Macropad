@@ -15,6 +15,7 @@ This repository contains the complete hardware design and firmware for a custom,
 * **`Firmware/`** — Microcontroller source code:
 * `*.ino` — Arduino IDE sketch for USB-HID keyboard emulation.
 * **`Images`** - Images of my project.
+* **`License`** - MIT License.
 
 ---
 
